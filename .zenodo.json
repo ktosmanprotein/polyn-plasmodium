@@ -1,0 +1,9 @@
+{
+  "title": "polyn-plasmodium: analysis code for asparagine repeats in malaria parasites",
+  "upload_type": "software",
+  "description": "Analysis code for 'Asparagine repeats in malaria parasites are the protein face of a genome-wide shift towards tandem repeats' (Osman, submitted to eLife). Derived data are archived separately on Zenodo.",
+  "creators": [{"name": "Osman, Khan Tanjid", "affiliation": "Independent researcher", "orcid": "0000-0001-9544-5288"}],
+  "license": "MIT",
+  "keywords": ["Plasmodium falciparum", "asparagine repeats", "low-complexity regions", "Laverania", "AlphaFold", "MalariaGEN Pf8", "microsatellites"],
+  "version": "1.0.0"
+}

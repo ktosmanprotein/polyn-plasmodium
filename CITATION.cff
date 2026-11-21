@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "polyn-plasmodium: analysis code for asparagine repeats in malaria parasites"
+type: software
+authors:
+  - family-names: Osman
+    given-names: Khan Tanjid
+    affiliation: Independent researcher, Cambridge, MA, USA
+    email: ktosman@gmail.com
+    orcid: "https://orcid.org/0000-0001-9544-5288"
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
+repository-code: "https://github.com/ktosmanprotein/polyn-plasmodium"
