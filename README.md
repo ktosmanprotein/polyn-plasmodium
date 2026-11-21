@@ -4,7 +4,7 @@ Analysis code for:
 
 > Osman KT. *Asparagine repeats in malaria parasites are the protein face of a genome-wide shift towards tandem repeats.* Submitted to eLife (2026).
 
-The derived data produced by this code (tract coordinates and ages, placements, reconstructions, Pf8 summaries, repeat counts, figure source data) are archived separately on Zenodo: **doi:10.5281/zenodo.DATA_DOI**.
+The derived data produced by this code (tract coordinates and ages, placements, reconstructions, Pf8 summaries, repeat counts, figure source data) are archived separately on Zenodo: **doi:10.5281/zenodo.24429530**.
 
 ## What the code does
 
